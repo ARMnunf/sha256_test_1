@@ -1,2 +1,7 @@
 # sha256_test_1
-just my experience #1 about sha256
+my experience #1 about sha256
+
+-สุ่มเล่นมาและทำการเข้ารหัสแบบ sha256
+-วนลูปไป 16000
+-นับจำนวนความถี่ของแต่ละตัวอักษรตั้งแต่ 0-f
+
